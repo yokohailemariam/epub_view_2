@@ -2,11 +2,11 @@ import 'dart:async';
 import 'dart:typed_data';
 
 import 'package:collection/collection.dart' show IterableExtension;
-import 'package:epub_view/src/data/epub_cfi_reader.dart';
-import 'package:epub_view/src/data/epub_parser.dart';
-import 'package:epub_view/src/data/models/chapter.dart';
-import 'package:epub_view/src/data/models/chapter_view_value.dart';
-import 'package:epub_view/src/data/models/paragraph.dart';
+import 'package:epub_view_2/src/data/epub_cfi_reader.dart';
+import 'package:epub_view_2/src/data/epub_parser.dart';
+import 'package:epub_view_2/src/data/models/chapter.dart';
+import 'package:epub_view_2/src/data/models/chapter_view_value.dart';
+import 'package:epub_view_2/src/data/models/paragraph.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
