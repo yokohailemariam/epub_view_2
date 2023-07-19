@@ -1,6 +1,5 @@
 import 'package:html/dom.dart' as dom;
 
-import '../../epub_view.dart';
 import 'epub_cfi_reader.dart';
 import 'models/paragraph.dart';
 
